@@ -1,6 +1,6 @@
 cask "pinchboard" do
-  version "1.14.4"
-  sha256 "1137e388066c5fea8d260b25cc0ec595cc4668c08a5c1090e92fd0cc3b2763ee"
+  version "1.15.0"
+  sha256 "c94b2d0b60fb099a1032634dfa6d1a13e1a389ca9ef08105ed9d7f8cba6b2ff9"
 
   url "https://github.com/zrsvfr9ytd-lab/pinchboard/releases/download/v#{version}/Pinchboard-#{version}.zip"
   name "Pinchboard"
